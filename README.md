@@ -17,13 +17,15 @@ ThePeople'sPlace is a transformative governance system designed for market users
 - zkevm: Utilized in the marketplace for optimized execution of EVM smart contracts.
 - Polygon: Scalable Ethereum multi-chain platform.
 - Lens: Secure identity verification system.
-- BOS Near: Efficient blockchain scaling solution.
+- BOS Near: Used to build the front-End
 - Filecoin: Decentralized storage network service.
 
 
-## Links
-- [Styled-Components](https://styled-components.com/)
-- [zkevm](https://github.com/appliedzkp/zkevm-circuits)
+## Links to widgets
+- []([https://styled-components.com/](https://near.social/mob.near/widget/ProfilePage?accountId=joelblenman21.near#/joelblenman21.near/widget/ItemGrid))
+- [](https://near.social/mob.near/widget/ProfilePage?accountId=joelblenman21.near#/joelblenman21.near/widget/ItemGrid)
+- [](https://near.social/mob.near/widget/ProfilePage?accountId=joelblenman21.near#/joelblenman21.near/widget/ItemComponent)
+- [](https://near.social/mob.near/widget/ProfilePage?accountId=joelblenman21.near#/joelblenman21.near/widget/LandingPageBody)
 
 ## Feedback and Learnings
 
