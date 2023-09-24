@@ -22,10 +22,11 @@ ThePeople'sPlace is a transformative governance system designed for market users
 
 
 ## Links to widgets
-- []([https://styled-components.com/](https://near.social/mob.near/widget/ProfilePage?accountId=joelblenman21.near#/joelblenman21.near/widget/ItemGrid))
-- [](https://near.social/mob.near/widget/ProfilePage?accountId=joelblenman21.near#/joelblenman21.near/widget/ItemGrid)
-- [](https://near.social/mob.near/widget/ProfilePage?accountId=joelblenman21.near#/joelblenman21.near/widget/ItemComponent)
-- [](https://near.social/mob.near/widget/ProfilePage?accountId=joelblenman21.near#/joelblenman21.near/widget/LandingPageBody)
+- [Item-Grid]([https://styled-components.com/](https://near.social/mob.near/widget/ProfilePage?accountId=joelblenman21.near#/joelblenman21.near/widget/ItemGrid))
+- [ItemComponent](https://near.social/mob.near/widget/ProfilePage?accountId=joelblenman21.near#/joelblenman21.near/widget/ItemComponent)
+- [LandingPageBody](https://near.social/mob.near/widget/ProfilePage?accountId=joelblenman21.near#/joelblenman21.near/widget/LandingPageBody)
+- [TheMarketPlaceComponent](https://near.social/mob.near/widget/ProfilePage?accountId=joelblenman21.near#/joelblenman21.near/widget/LandingPageBody)
+- 
 
 ## Feedback and Learnings
 
