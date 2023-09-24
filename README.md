@@ -25,7 +25,7 @@ ThePeople'sPlace is a transformative governance system designed for market users
 - [Item-Grid]([https://styled-components.com/](https://near.social/mob.near/widget/ProfilePage?accountId=joelblenman21.near#/joelblenman21.near/widget/ItemGrid))
 - [ItemComponent](https://near.social/mob.near/widget/ProfilePage?accountId=joelblenman21.near#/joelblenman21.near/widget/ItemComponent)
 - [LandingPageBody](https://near.social/mob.near/widget/ProfilePage?accountId=joelblenman21.near#/joelblenman21.near/widget/LandingPageBody)
-- [TheMarketPlaceComponent](https://near.social/mob.near/widget/ProfilePage?accountId=joelblenman21.near#/joelblenman21.near/widget/LandingPageBody)
+- [TheMarketPlaceComponent](https://near.social/mob.near/widget/ProfilePage?accountId=shemar268abel.near#/shemar268abel.near/widget/LandingPageBody)
 - 
 
 ## Feedback and Learnings
