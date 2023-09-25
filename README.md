@@ -43,7 +43,7 @@ Lens was utilized to validate user identities, proving crucial to user authentic
 Our aim was to integrate Near, but various challenges including issues with Infura hindered our progress, and it stopped working before the wallet integration could be completed.
 
 ### zkevm
-zkevm was a significant component in our marketplace, optimizing the execution of EVM smart contracts and allowing for a more seamless and efficient transaction experience. 
+zkevm would be a significant component in our marketplace, optimizing the execution of EVM smart contracts and allowing for a more seamless and efficient transaction experience. 
 
 ## Support
 For support, please contact: support@thepeoplesplace.com
